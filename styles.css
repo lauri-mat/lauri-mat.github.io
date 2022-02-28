@@ -1,0 +1,50 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2:hover {
+    color: navy;
+}
+
+div {
+    padding-top: 15px;
+    padding-right: 1450px;
+    }
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+    border-right: 200px;
+    border-radius: 15px;
+    padding: 16px;
+}
+
+input:hover {
+    background-color: thistle;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+table {
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 15px;
+    border-style: dashed;
+}
+
+table:hover {
+    background-color: wheat;
+}
+
+.new {
+    background-color: beige;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+img {
+    border-radius: 15px;
+}
+
